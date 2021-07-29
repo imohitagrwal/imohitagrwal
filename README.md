@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mohit Agarwal.
 - 👀 I’m interested in contributing to open source projects.
-- 🌱 I’m currently learning Apache Solr.
 - 💞️ I’m looking to collaborate on node js based projects.
 - 📫 You can reach me on mohit.1.mka@gmail.com .
 
